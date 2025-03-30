@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://wuyisheng.github.io/</loc>
+         <lastmod>2025-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://wuyisheng.github.io/blog/</loc>
+         <lastmod>2025-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://wuyisheng.github.io/blog/2025/03/09/sphinx-doc/</loc>
+         <lastmod>2025-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://wuyisheng.github.io/blog/2025/03/19/toyvpn-%E8%AF%A6%E8%A7%A3/</loc>
+         <lastmod>2025-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://wuyisheng.github.io/blog/archive/2025/</loc>
+         <lastmod>2025-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://wuyisheng.github.io/blog/category/toyvpn/</loc>
+         <lastmod>2025-03-30</lastmod>
+    </url>
+    <url>
+         <loc>https://wuyisheng.github.io/blog/category/sphinx-docs/</loc>
+         <lastmod>2025-03-30</lastmod>
+    </url>
+</urlset>
