@@ -2,38 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wuyisheng.github.io/</loc>
-         <lastmod>2025-08-11</lastmod>
+         <lastmod>2026-03-01</lastmod>
     </url>
     <url>
          <loc>https://wuyisheng.github.io/blog/</loc>
-         <lastmod>2025-08-11</lastmod>
+         <lastmod>2026-03-01</lastmod>
     </url>
     <url>
          <loc>https://wuyisheng.github.io/blog/2025/03/09/sphinx-doc/</loc>
-         <lastmod>2025-08-11</lastmod>
+         <lastmod>2026-03-01</lastmod>
     </url>
     <url>
          <loc>https://wuyisheng.github.io/blog/2025/03/19/toyvpn%E8%AF%A6%E8%A7%A3/</loc>
-         <lastmod>2025-08-11</lastmod>
+         <lastmod>2026-03-01</lastmod>
     </url>
     <url>
          <loc>https://wuyisheng.github.io/blog/2025/08/11/ubuntu%E6%97%A0%E6%B3%95%E6%8B%89docker%E9%95%9C%E5%83%8F%E9%97%AE%E9%A2%98%E5%A4%84%E7%90%86/</loc>
-         <lastmod>2025-08-11</lastmod>
+         <lastmod>2026-03-01</lastmod>
+    </url>
+    <url>
+         <loc>https://wuyisheng.github.io/blog/2026/02/27/wireguard%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90/</loc>
+         <lastmod>2026-03-01</lastmod>
+    </url>
+    <url>
+         <loc>https://wuyisheng.github.io/blog/archive/2026/</loc>
+         <lastmod>2026-03-01</lastmod>
     </url>
     <url>
          <loc>https://wuyisheng.github.io/blog/archive/2025/</loc>
-         <lastmod>2025-08-11</lastmod>
+         <lastmod>2026-03-01</lastmod>
+    </url>
+    <url>
+         <loc>https://wuyisheng.github.io/blog/category/wireguard/</loc>
+         <lastmod>2026-03-01</lastmod>
     </url>
     <url>
          <loc>https://wuyisheng.github.io/blog/category/docker/</loc>
-         <lastmod>2025-08-11</lastmod>
+         <lastmod>2026-03-01</lastmod>
     </url>
     <url>
          <loc>https://wuyisheng.github.io/blog/category/toyvpn/</loc>
-         <lastmod>2025-08-11</lastmod>
+         <lastmod>2026-03-01</lastmod>
     </url>
     <url>
          <loc>https://wuyisheng.github.io/blog/category/sphinx-docs/</loc>
-         <lastmod>2025-08-11</lastmod>
+         <lastmod>2026-03-01</lastmod>
     </url>
 </urlset>
